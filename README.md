@@ -4,15 +4,15 @@ I'm a 31-year-old web developer from the Guatemalan Republic, who loves to code 
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/newtella/github-readme-stats">
+<a href="https://github.com/buildwithraven/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=newtella" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=buildwithraven" />
 </a>
-<a href="https://github.com/newtella/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=newtella&show_icons=true&line_height=27" alt="My github stats" />
+<a href="https://github.com/buildwithraven/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=buildwithraven&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
 
- (also from a project I'm contributing to, [newtella/github-readme-stats](https://github.com/newtella/github-readme-stats)
+ (also from a project I'm contributing to, [buildwithraven/github-readme-stats](https://github.com/buildwithraven/github-readme-stats)
 
 ### What I do
 
@@ -58,7 +58,7 @@ Scrum Inc by Jeff Sutherland: [Show Credentials](https://agileeducation.org/es/c
   <img src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" alt="Freddy Marroquin's Medium Journey" height="60" width="60">
 </a>
 <!--
-**newtella/newtella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**buildwithraven/buildwithraven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -71,6 +71,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 * Sourcerer: <br />
-<a href="https://sourcerer.io/newtella"><img src="https://avatars1.githubusercontent.com/u/32725024?v=4" height="50px" width="50px" alt=""/></a> <br />
-<a href="https://sourcerer.io/newtella"><img src="https://img.shields.io/badge/PHP-89%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/buildwithraven"><img src="https://avatars1.githubusercontent.com/u/32725024?v=4" height="50px" width="50px" alt=""/></a> <br />
+<a href="https://sourcerer.io/buildwithraven"><img src="https://img.shields.io/badge/PHP-89%20commits-orange.svg" alt=""></a>
 -->
