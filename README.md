@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a 28-year-old web developer from the Guatemalan Republic, who loves to code and machines.
+I'm a 31-year-old web developer from the Guatemalan Republic, who loves to code and machines.
 
 ## Quick overview
 * GitHub stats:  
@@ -20,34 +20,35 @@ I'm a 28-year-old web developer from the Guatemalan Republic, who loves to code 
 <?php
 class Info() {
   public $name = "Freddy Marroquin";
-  public $age = 27;
+  public $age = 31;
   public $nationality = "Guatemalan";
-  public $languages = array("spanish" => "Native", "English" => "B2 Upper Intermediate");
-  public $school = "Francisco Marroquin";
-  public $ocupation ="Computer Science, Industrial Instrument Technician";
+  public $languages = array("spanish" => "Native", "English" => "C1 Advanced");
+  public $ocupation ="Web Developer, Industrial Automation Enthusiast";
   public $free_time = "Learning new technologies and sometimes LoL matches(Freljord Forever)";
   public $musical_interest_years = "Every year has its own";
 }
 
 class Programming() {
-  public $languages = ["PHP", "JS", "C#"];
-  public $stylesheets = "CSS";
-  public $frameworks = ["Laravel <3", ".NET"];
-  public $databases = ["MySQL", "SQLServer"];
-  public $learning = ["MongoDB","Kubernates"];
-  public $projects = ["SAM","Stokes","Malcon"];
+  public $languages = ["PHP", "JS", "python"];
+  public $frameworks = ["Laravel", "FastAPI"];
+  public $databases = ["MySQL", "PostgreSQL"];
+  public $learning = ["Swift Mobile Development","Flutter"];
+  public $projects = ["Workin' on my next project"];
 }
 
 class Social() {
-  public $twitter = "@imgofm"
+  public $twitter = "@rav3n9_"
 }
 ?>
 ```
 
-### Things Can I Prove 
+### Certificates: 
 
-* English B2 UPPER INTERMEDIATE:  
+* English C1 Advanced:  
 EFSET.org Certificate: [efset.org/cert/8LVRA4](https://www.efset.org/cert/8LVRA4)
+
+* Registered Scrum Master & Registered Product Owner:  
+Scrum Inc by Jeff Sutherland: [Show Credentials](https://agileeducation.org/es/credential-lookup/?firstName=Freddy&lastName=Marroquin&country=Guatemala)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
